@@ -20,3 +20,5 @@ npm i
 npm run dev 
 
 visit zexon.localhost
+
+or use sail
